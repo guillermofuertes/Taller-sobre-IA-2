@@ -46,7 +46,6 @@ pagina = st.sidebar.radio(
         "Tokenizer",
         "Construir embeddings",
         "Embeddings reales",
-        "Analogías",
         "Visualización"
     ]
 )
